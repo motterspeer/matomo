@@ -1,0 +1,5 @@
+- name: Deploy Script to Bunny Edge Scripting
+  uses: BunnyWay/actions/deploy-script@main
+  with:
+    script_id: 15801
+    file: "script.ts"
